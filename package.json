@@ -21,7 +21,7 @@
   "dependencies": {
     "q": "0.9.x"
   },
-  "license": "Apache2",
+  "license": "Apache-2.0",
   "engines": {
     "node": ">=0.8.0"
   },
